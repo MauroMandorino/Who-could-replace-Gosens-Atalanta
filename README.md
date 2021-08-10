@@ -1,6 +1,9 @@
 👋 Hi, I’m @MauroMandorino
+
 👀 I’m interested in football data analysis
+
 📫 How to reach me: mauromandorino@gmail.com
+
 In this repository you will find my Football Data Analyst project work.
 
 The main purpose of the project was to identify pontial players that could replace Gosens in Atalanta.
